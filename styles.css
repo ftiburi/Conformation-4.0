@@ -3,34 +3,72 @@ body {
 }
 
 #box_1 {
-    border-radius: 15px;
+    position: relative;
+    border-radius: 5px;
     background: white;
-    padding: 20px;
-    width: 200px;
-    height: 200px;
-    margin: 20px;
+    padding: 10px;
+    width: 380px;
+    height: 220px;
+    margin: 10px;
     color: black;
     text-align: left;
     font-size: 20px;
+    
 }
 
 #box_2 {
     position: relative;
-    left: 0px;
-    top: 0px;
-    border-radius: 14px;
+    border-radius: 5px;
     background: white;
-    padding: 20px;
+    padding: 10px;
     width: 800px;
     height: 200px;
-    margin: 20px;
+    margin: 10px;
     color: black;
     text-align: left;
     font-size: 20px;
 }
 
-h1 {
+#myPlot1 {
+    position: relative;
+    border-radius: 5px;
+    background: white;
+    width: 400px;
+    height: 400px;
+    margin: 10px;
     color: black;
+    text-align: left;
+    font-size: 20px;
+}
+
+#myPlot2 {
+    position: relative;
+    border-radius: 5px;
+    background: white;
+    width: 820px;
+    height: 400px;
+    margin: 10px;
+    color: black;
+    text-align: left;
+    font-size: 20px;
+}
+
+#myPlot3 {
+    position: relative;
+    border-radius: 10px;
+    background: white;
+    width: 410px;
+    height: 405px;
+    margin: 10px;
+    color: black;
+    text-align: left;
+    font-size: 20px;
+}
+
+
+
+h1 {
+    color: blue;
 }
 
 
